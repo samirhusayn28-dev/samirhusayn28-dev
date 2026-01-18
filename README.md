@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sameer Hussain
+# Hi 👋, I'm Samir Husayn
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;AI+%26+ML+Explorer;Open+Source+Contributor" alt="Typing SVG" /></a>
 
