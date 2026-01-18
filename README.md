@@ -48,16 +48,20 @@ const sameer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirhusayn28-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samirhusayn28-dev&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=tokyonight&border_color=7F3FBF" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirhusayn28-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=samirhusayn28-dev&theme=tokyonight&border=7F3FBF&background=1A1B27" alt="GitHub Streak" width="70%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirhusayn28-dev&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=1A1B27&color=70A5FD&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samirhusayn28-dev&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" width="95%" />
 </div>
 
 ## 🌐 Connect With Me
