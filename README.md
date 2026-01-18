@@ -13,7 +13,7 @@
 
 ```javascript
 const sameer = {
-    location: "Rawalpindi, Pakistan 🇵🇰",
+    location: "Islamabad, Pakistan 🇵🇰",
     currentProject: "Patient Health Tracking System",
     learning: ["Next.js", "Express.js", "Node.js"],
     expertise: ["React", "JavaScript", "Full Stack"],
