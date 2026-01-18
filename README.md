@@ -49,36 +49,38 @@ const sameer = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%" rowspan="2">
 
 [![Sameer's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samirhusayn28-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/samirhusayn28-dev)
 
 </td>
-<td width="33%">
+<td width="50%">
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=algolia)](https://github.com/samirhusayn28-dev)
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samirhusayn28-dev&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </td>
 </tr>
 <tr>
-<td colspan="3">
+<td colspan="2">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=050F2C&color=ffffff&line=00B4D8&point=00F5FF&area=true&hide_border=false)
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="1">
+<td width="50%">
 
 ![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirhusayn28-dev&theme=algolia)
 
 </td>
-<td width="50%" colspan="2">
+<td width="50%">
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirhusayn28-dev&theme=algolia)
 
