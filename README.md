@@ -48,20 +48,25 @@ const sameer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirhusayn28-dev&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=tokyonight&border_color=7F3FBF" alt="Top Languages" width="48%" />
+  
+[![Sameer's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samirhusayn28-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/samirhusayn28-dev)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=donut&theme=algolia)](https://github.com/samirhusayn28-dev)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samirhusayn28-dev&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samirhusayn28-dev&theme=tokyonight&border=7F3FBF&background=1A1B27" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=050F2C&color=ffffff&line=00B4D8&point=00F5FF&area=true&hide_border=false" alt="Contribution Graph" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=1A1B27&color=70A5FD&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-</div>
+  
+| 📊 **Overall Stats** | 🏆 **Achievements** |
+|:---:|:---:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirhusayn28-dev&theme=algolia) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirhusayn28-dev&theme=algolia) |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirhusayn28-dev&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" width="95%" />
 </div>
 
 ## 🌐 Connect With Me
