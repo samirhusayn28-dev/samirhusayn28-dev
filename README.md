@@ -47,27 +47,39 @@ const sameer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
+<table>
+<tr>
+<td width="50%">
+
 [![Sameer's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samirhusayn28-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/samirhusayn28-dev)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=donut&theme=algolia)](https://github.com/samirhusayn28-dev)
+</td>
+<td width="50%">
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=algolia)](https://github.com/samirhusayn28-dev)
+
+</td>
+</tr>
+</table>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samirhusayn28-dev&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=050F2C&color=ffffff&line=00B4D8&point=00F5FF&area=true&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&custom_title=Contribution%20Graph&bg_color=050F2C&color=ffffff&line=00B4D8&point=00F5FF&area=true&hide_border=false" alt="Contribution Graph" width="95%" />
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  
-| 📊 **Overall Stats** | 🏆 **Achievements** |
-|:---:|:---:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirhusayn28-dev&theme=algolia) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirhusayn28-dev&theme=algolia) |
+![Overall Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirhusayn28-dev&theme=algolia)
 
-</div>
+</td>
+<td width="50%">
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samirhusayn28-dev&theme=algolia)
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
