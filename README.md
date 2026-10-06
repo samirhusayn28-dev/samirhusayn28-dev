@@ -9,7 +9,7 @@
 
 <br><br>
 
-<h3><code>samir@github ~ $ whoami</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./portrait-ascii.svg" width="370" alt="ascii portrait" /></td>
@@ -19,22 +19,22 @@
 
 <br>
 
-<h3><code>samir@github ~ $ ./contributions.sh</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
 
 <br><br>
 
-<h3><code>samir@github ~ $ systemctl status samir.target</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ systemctl status samir.target</code></h3>
 <img src="./status.svg" width="860" alt="current status" />
 
 <br><br>
 
-<h3><code>samir@github ~ $ tree ~/stack</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ tree ~/stack</code></h3>
 <img src="./skills.svg" width="860" alt="tech stack" />
 
 <br><br>
 
-<h3><code>samir@github ~ $ ./stats.sh</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ ./stats.sh</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./stats-card.svg" width="425" alt="github stats" /></td>
@@ -44,12 +44,12 @@
 
 <br>
 
-<h3><code>samir@github ~ $ ls ~/projects</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ ls ~/projects</code></h3>
 <img src="./projects.svg" width="860" alt="projects" />
 
 <br><br>
 
-<h3><code>samir@github ~ $ ./connect.sh</code></h3>
+<h3><code>samirhusayn28-dev@github ~ $ ./connect.sh</code></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-samirhusayns-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-hussain-122304374)
@@ -61,6 +61,6 @@
 
 <br>
 
-<code>samir@github ~ $ exit 0</code>
+<code>samirhusayn28-dev@github ~ $ exit 0</code>
 
 </div>
