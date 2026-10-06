@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  heatmap:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +23,12 @@ jobs:
         env:
           GH_USER: ${{ github.repository_owner }}
       - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/fetch_stats.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python scripts/render_stats_svgs.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: data/contributions.json contrib-heatmap.svg
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: data/*.json contrib-heatmap.svg stats-card.svg langs.svg projects.svg

@@ -1,3 +1,5 @@
+"""Prep photo (background already removed, e.g. via macOS Preview): CLAHE contrast -> composite on white.
+Usage: python scripts/prep_photo.py source-photo.png"""
 import sys
 import numpy as np
 import cv2
