@@ -1,54 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=200&section=header&text=Samir%20Husayn&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter.+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+AI%2FML;Turning+coffee+into+code+%E2%98%95;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=samirhusayn28-dev&color=58A6FF&style=flat-square&label=profile+views)](https://github.com/samirhusayn28-dev)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/samirhusayn28-dev?style=flat-square&color=58A6FF&labelColor=161b22&label=followers)](https://github.com/samirhusayn28-dev)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-samirhusayns-projects.vercel.app/)
 
-</div>
+<h3><code>samir@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-<br/>
+<br><br>
 
----
-
-## 💫 About Me
-
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<div>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=58A6FF&vCenter=true&width=420&lines=📍+Islamabad%2C+Pakistan+🇵🇰;💼+Full+Stack+Developer;🔨+Building+Patient+Health+Tracking+System;🤝+Open+to+React+%26+Python+Projects;📚+Learning+Next.js+·+Express+·+TensorFlow;💬+Ask+me+about+React+·+Node.js+·+AI;⚡+Fun+fact%3A+I+debug+faster+at+2am" alt="About Me" />
-
-<br/><br/>
-
-| | |
-|:---|:---|
-| 📍 **Location** | Islamabad, Pakistan 🇵🇰 |
-| 💼 **Role** | Full Stack Developer |
-| 🔨 **Working on** | Patient Health Tracking System |
-| 🤝 **Collab** | Open to React & Python Projects |
-| 🆘 **Need help with** | System Design & Cloud Architecture |
-| 📚 **Learning** | Next.js · Express.js · TensorFlow |
-| 💬 **Ask me about** | React · Node.js · Web Dev · AI |
-| ⚡ **Fun fact** | I debug faster at 2am |
+<h3><code>samir@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
-
----
+<br>
 
 ## 🌐 Connect With Me
 
@@ -65,8 +38,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/sameerhussainsoomro)
 
 </div>
-
-<br/>
 
 ---
 
@@ -118,8 +89,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
@@ -130,17 +99,11 @@
 &nbsp;
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samirhusayn28-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
 
-<br/><br/>
+<br><br>
 
 <img src="https://nirzak-streak-stats.vercel.app?user=samirhusayn28-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6E7681" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samirhusayn28-dev&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&hide_border=true&custom_title=Contribution+Activity" />
-
 </div>
-
-<br/>
 
 ---
 
@@ -151,8 +114,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=samirhusayn28-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
-
-<br/>
 
 ---
 
@@ -169,8 +130,6 @@
   └─────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
 ---
 
 ## ✍️ Dev Quote of the Day
@@ -181,8 +140,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 🔝 Top Contributed Repos
@@ -191,18 +148,8 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=samirhusayn28-dev&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true)
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
+<br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer"/>
 
 </div>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="312" viewBox="0 0 490 312">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;white-space:pre}.t,.k{fill:#0969da;font-weight:700}.v{fill:#24292f}.r{fill:#8c959f}.p{fill:#1a7f37}@media (prefers-color-scheme:dark){.t,.k{fill:#58a6ff}.v{fill:#c9d1d9}.r{fill:#6e7681}.p{fill:#3fb950}}.l{opacity:0;animation:f .5s ease forwards}@keyframes f{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}</style>
+<text class="l p" x="24" y="46">$ neofetch</text>
+<text class="l t" x="24" y="68" style="animation-delay:0.43s">samir@github</text>
+<text class="l r" x="24" y="90" style="animation-delay:0.61s">──────────────────────────────</text>
+<text class="l k" x="24" y="112" style="animation-delay:0.79s">Role</text><text class="l v" x="134" y="112" style="animation-delay:0.79s">Full Stack Developer</text>
+<text class="l k" x="24" y="134" style="animation-delay:0.97s">Location</text><text class="l v" x="134" y="134" style="animation-delay:0.97s">Islamabad, Pakistan</text>
+<text class="l k" x="24" y="156" style="animation-delay:1.15s">Now</text><text class="l v" x="134" y="156" style="animation-delay:1.15s">Patient Health Tracking System</text>
+<text class="l k" x="24" y="178" style="animation-delay:1.33s">Prev</text><text class="l v" x="134" y="178" style="animation-delay:1.33s">eyespeaks (eye-tracking assistive tech)</text>
+<text class="l k" x="24" y="200" style="animation-delay:1.51s"></text><text class="l v" x="134" y="200" style="animation-delay:1.51s">studio-xenos (agency + WebGL)</text>
+<text class="l k" x="24" y="222" style="animation-delay:1.69s">Stack</text><text class="l v" x="134" y="222" style="animation-delay:1.69s">React · Next.js · Node.js · Express</text>
+<text class="l k" x="24" y="244" style="animation-delay:1.87s"></text><text class="l v" x="134" y="244" style="animation-delay:1.87s">Python · TensorFlow · PyTorch · OpenCV</text>
+<text class="l k" x="24" y="266" style="animation-delay:2.05s">Highlights</text><text class="l v" x="134" y="266" style="animation-delay:2.05s">Open to React &amp; Python projects</text>
+<text class="l k" x="24" y="288" style="animation-delay:2.23s"></text><text class="l v" x="134" y="288" style="animation-delay:2.23s">I debug faster at 2am</text>
+</svg>
