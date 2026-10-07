@@ -8,9 +8,9 @@
  "forks": 0,
  "langs": {
   "TypeScript": 1901577,
-  "JavaScript": 1477202,
-  "CSS": 186801,
-  "HTML": 131140,
+  "JavaScript": 1470381,
+  "CSS": 190101,
+  "HTML": 123671,
   "Python": 85529
  },
  "repos": [
@@ -20,7 +20,7 @@
    "language": "JavaScript",
    "stargazers_count": 0,
    "forks_count": 0,
-   "pushed_at": "2026-10-05T20:54:14Z",
+   "pushed_at": "2026-10-06T15:21:12Z",
    "html_url": "https://github.com/samirhusayn28-dev/Desktop_Pet"
   },
   {
