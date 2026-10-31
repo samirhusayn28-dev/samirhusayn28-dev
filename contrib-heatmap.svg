@@ -384,9 +384,10 @@
 <rect class="c l1" x="820" y="74" width="12" height="12" rx="3" style="animation-delay:0.97s"><title>1 on 2026-10-27</title></rect>
 <rect class="c l1" x="820" y="89" width="12" height="12" rx="3" style="animation-delay:0.99s"><title>1 on 2026-10-28</title></rect>
 <rect class="c l1" x="820" y="104" width="12" height="12" rx="3" style="animation-delay:1.01s"><title>1 on 2026-10-29</title></rect>
-<rect class="c l0" x="820" y="119" width="12" height="12" rx="3" style="animation-delay:1.03s"><title>0 on 2026-10-30</title></rect>
-<text class="b" x="40" y="175">178 contributions in the last year</text>
-<text x="40" y="195">current streak 29d · longest 29d · best day 31 (2026-10-04)</text>
+<rect class="c l1" x="820" y="119" width="12" height="12" rx="3" style="animation-delay:1.03s"><title>1 on 2026-10-30</title></rect>
+<rect class="c l0" x="820" y="134" width="12" height="12" rx="3" style="animation-delay:1.04s"><title>0 on 2026-10-31</title></rect>
+<text class="b" x="40" y="175">179 contributions in the last year</text>
+<text x="40" y="195">current streak 30d · longest 30d · best day 31 (2026-10-04)</text>
 <text x="636" y="175">Less</text>
 <rect class="l0" x="670" y="165" width="12" height="12" rx="3"/>
 <rect class="l1" x="686" y="165" width="12" height="12" rx="3"/>
