@@ -3,17 +3,31 @@
  "created_at": "2025-10-12T11:25:51Z",
  "followers": 1,
  "following": 1,
- "public_repos": 18,
+ "public_repos": 19,
  "stars": 7,
  "forks": 0,
  "langs": {
   "TypeScript": 1970181,
   "JavaScript": 1482235,
+  "Dart": 523863,
   "CSS": 190101,
   "HTML": 123671,
-  "Python": 85529
+  "Python": 92285,
+  "Kotlin": 27043,
+  "Shell": 19846,
+  "Swift": 14817,
+  "Objective-C": 38
  },
  "repos": [
+  {
+   "name": "QUIN",
+   "description": null,
+   "language": "Dart",
+   "stargazers_count": 0,
+   "forks_count": 0,
+   "pushed_at": "2026-11-18T20:38:16Z",
+   "html_url": "https://github.com/samirhusayn28-dev/QUIN"
+  },
   {
    "name": "CampusMind",
    "description": null,
