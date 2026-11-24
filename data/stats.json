@@ -8,18 +8,28 @@
  "forks": 0,
  "langs": {
   "TypeScript": 1970181,
-  "JavaScript": 1482235,
+  "JavaScript": 1615179,
   "Python": 804850,
   "Dart": 523863,
-  "CSS": 190101,
-  "HTML": 123671,
+  "CSS": 126743,
+  "HTML": 59845,
   "Kotlin": 27043,
   "Shell": 19846,
-  "Swift": 14817,
+  "Swift": 16202,
+  "PowerShell": 6647,
   "NSIS": 2703,
   "Objective-C": 38
  },
  "repos": [
+  {
+   "name": "Desktop_Pet",
+   "description": null,
+   "language": "JavaScript",
+   "stargazers_count": 0,
+   "forks_count": 0,
+   "pushed_at": "2026-11-24T11:51:23Z",
+   "html_url": "https://github.com/samirhusayn28-dev/Desktop_Pet"
+  },
   {
    "name": "AppStation",
    "description": null,
@@ -55,15 +65,6 @@
    "forks_count": 0,
    "pushed_at": "2026-11-11T10:29:12Z",
    "html_url": "https://github.com/samirhusayn28-dev/Digestly"
-  },
-  {
-   "name": "Desktop_Pet",
-   "description": null,
-   "language": "JavaScript",
-   "stargazers_count": 0,
-   "forks_count": 0,
-   "pushed_at": "2026-10-14T15:38:09Z",
-   "html_url": "https://github.com/samirhusayn28-dev/Desktop_Pet"
   },
   {
    "name": "Warda-s-Portfolio",
